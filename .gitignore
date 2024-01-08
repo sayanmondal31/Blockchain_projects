@@ -1,0 +1,2 @@
+# add node_modules to .gitignore that will be applicable to all folders
+node_modules
